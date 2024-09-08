@@ -27,5 +27,5 @@ A simple Tic Tac Toe game built using Flutter, featuring player name input, winn
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-flutter.git
+   git clone https://github.com/Kmkishore05/tic-tac-toe-flutter.git
    cd tic-tac-toe-flutter
