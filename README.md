@@ -3,6 +3,8 @@
 A simple Tic Tac Toe game built using Flutter, featuring player name input, winner celebration, game reset functionality.
 
 ## Features
+- 🖋️ **Custom App Icon**: The app icon has been customized with a default logo.
+- 🖼️ **Custom Splash Screen**: Displays a splash screen with a custom logo when the app is launched.
 - **Two Player Mode**: Enter player names and enjoy a classic game of Tic Tac Toe.
 - **Winner Celebration**: Congratulatory message with confetti for the winning player.
 - **Game Reset**: Reset the game with a click to play again.
