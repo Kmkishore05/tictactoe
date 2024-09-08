@@ -14,14 +14,16 @@ A simple Tic Tac Toe game built using Flutter, featuring player name input, winn
 
 
 ## Screenshots
+### Splash Screen
+![Splash_screen](splash_screen.jpg)
 ### Player Input
-![Player Input](screenshots/player_input.png)
+![Player Input](player_input.jpg)
 
 ### Game Board
-![Game Board](screenshots/game_board.png)
+![Game Board](gamepad_screen.jpg)
 
 ### Winner Celebration
-![Winner Celebration](screenshots/winner_celebration.png)
+![Winner Celebration](congrat_screen.jpg)
 
 ## Installation
 
